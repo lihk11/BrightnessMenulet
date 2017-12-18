@@ -14,46 +14,23 @@ Download app build: `BrightnessMenulet.zip`_.
 .. _BrightnessMenulet.zip:
     https://raw.github.com/kalvin126/BrightnessMenulet/master/BrightnessMenulet/Brightness_Menulet.zip
 
-.. image:: https://raw.github.com/kalvin126/BrightnessMenulet/master/BrightnessMenulet/screenshot.png
+I have made some modification of very original code and make the code works for my dell u2414h and u2718q.
+
+If you have tested your monitor(s) with this version of tool, please let me know whether or not it work and I will update this table.
 
 Monitors:
 .......................
 +------------------+---------------+
 | Working          | Non-Working   |
 +==================+===============+
-| Dell U2014h      |               |
+| Dell U2414H      |               |
 +------------------+---------------+
-| Dell U2414h      | Philips 4065UC|
-+------------------+---------------+
-| Dell U2415h      | Dell P2412H   |
-+------------------+---------------+
-| Dell U2515h      | Dell U2412M   |
-+------------------+---------------+
-| Dell U2715h      | LG LB5600     |
-+------------------+---------------+
-| Dell U2713HM     | HP Z23i       |
-+------------------+---------------+
-| Dell P2415Q      |               |
-+------------------+---------------+
-| Dell P2715Q      |               |
-+------------------+---------------+
-| Dell S2216M      |               |
-+------------------+---------------+
-| Samsung SA 350   |               |
-+------------------+---------------+
-| BenQ G2410HD     |               |
-+------------------+---------------+
-| Viseo 230Ws      |               |
-+------------------+---------------+
-| Asus VS239       |               |
-+------------------+---------------+
-| LG 27UD88-W      |               |
-+------------------+---------------+
-| LG 34UC87M       |               |
+| Dell U2718Q      |               |
 +------------------+---------------+
 
 
-If you have tested your monitor(s) with this tool, please let me know whether or not it work and I will update this table.
+
+
 
 
 Features:
