@@ -14,9 +14,9 @@ Download app build: `BrightnessMenulet.zip`_.
 .. _BrightnessMenulet.zip:
     https://raw.github.com/kalvin126/BrightnessMenulet/master/BrightnessMenulet/Brightness_Menulet.zip
 
-I have made some modification of very original code and make the code works for my dell u2414h and u2718q.
+**I have made some modification of very original code and make the code works for my dell u2414h and u2718q.**
 
-If you have tested your monitor(s) with this version of tool, please let me know whether or not it work and I will update this table.
+**If you have tested your monitor(s) with this version of tool, please let me know whether or not it work and I will update this table.**
 
 Monitors:
 .......................
