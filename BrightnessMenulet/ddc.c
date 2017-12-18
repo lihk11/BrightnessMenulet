@@ -163,7 +163,7 @@ bool DDCWrite(CGDirectDisplayID displayID, struct DDCWriteCommand *write) {
     
     bzero( &request, sizeof(request));
     
-    request.commFlags                       = 0;
+    request.commFlags                       = kIOI2CUseSubAddressCommFlag;
     
     request.sendAddress                     = 0x6E;
     request.sendTransactionType             = kIOI2CSimpleTransactionType;
@@ -194,7 +194,7 @@ bool DDCRead(CGDirectDisplayID displayID, struct DDCReadCommand *read) {
     for (int i=1; i<=kMaxRequests; i++) {
         bzero(&request, sizeof(request));
         
-        request.commFlags                       = 0;
+        request.commFlags                       = kIOI2CUseSubAddressCommFlag;
         request.sendAddress                     = 0x6E;
         request.sendTransactionType             = kIOI2CSimpleTransactionType;
         request.sendBuffer                      = (vm_address_t) &data[0];
