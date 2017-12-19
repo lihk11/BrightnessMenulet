@@ -9,10 +9,10 @@ This tool works on OSX 10.8+. If you have tested your monitor(s) with this tool,
 let me know wether it worked or not so I can add monitor models here. Preference's Debug button logs to the
 console VCP codes and their values on the selected monitor.
 
-Download app build: `BrightnessMenulet.zip`_.
+Download app build: `Brightness.Menulet.zip`_.
 
 .. _BrightnessMenulet.zip:
-    https://raw.github.com/kalvin126/BrightnessMenulet/master/BrightnessMenulet/Brightness_Menulet.zip
+    https://github.com/lihk11/BrightnessMenulet/releases/download/v1.4/Brightness.Menulet.zip
 
 **I have made some modification of very original code and make the code works for my dell u2414h and u2718q.**
 
